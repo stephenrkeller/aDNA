@@ -1,0 +1,26 @@
+---
+title: "aDNA Electronic Lab Notebook"
+author: "Ethan Thibault"
+date: "11/14/2018"
+output:
+  html_document:
+    df_print: paged
+---
+
+# Description of notebook
+
+This document will be used as the notebook for the NSF Spruce aDNA project. We need to use an online notebook because the aDNA room is susceptible to contamination and we cannot be moving a physical notebook back and forth from the regular lab to the aDNA lab.
+
+# Table of Contents:
+
+* [Page 1: DATE](#id-section1). ENTRY
+
+------
+
+<div id='id-section1'/>
+
+### Page 1: DATE, ENTRY
+
+CONTENT
+
+------
