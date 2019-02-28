@@ -13,14 +13,14 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 
 # Table of Contents:
 
-* [Page 1: DATE](#id-section1). ENTRY
+* [Page 1: February 28, 2019](#id-section1). Bring in supplies
 
 ------
 
 <div id='id-section1'/>
 
-### Page 1: DATE, ENTRY
+### Page 1: February 28, 2019, Bring in supplies
 
-CONTENT
+I brought in the new tips today that fit the 10ul multichannel pipette. I also brought in the trash can, weigh boats, syringes, and filters. I am cycling the syringes, filters, and weigh boats through the UV cycle in the hood. I am taking out an Endura plate to see if the robot will be able to recognize it. I will not be able to take out the full skirt plates we recieved the pollen in. This could potentially be an issue because I am not sure that the full skirt will allow for the wells to actually sit in the heqat block of the thermal cycler... So it turns out I cannot even close the thermal cycler with the full skirted plat in there... this is going to be an issue that I need to talk to Steve about. It is too late to ask the collaboraters sorting the pollen to put them into different plates... Good news is that it looks like pipetting 2ul from one ml from the trough using the multichannel will work just fine. It also appears that I cannot log into my gmail on this computer because it doesn't recognize the device and wants to text me a code, but I can't have my phone in here. This computer also appears to not have speakers built in so I cannot listen to music unless I get some speakers for this room.
 
 ------
