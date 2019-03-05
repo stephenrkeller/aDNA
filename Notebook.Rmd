@@ -14,6 +14,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 # Table of Contents:
 
 * [Page 1: February 28, 2019](#id-section1). Bring in supplies
+* [Page 2: March 5, 2019] (#id-section2). Make Extraction Solutions
 
 ------
 
@@ -24,3 +25,19 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 I brought in the new tips today that fit the 10ul multichannel pipette. I also brought in the trash can, weigh boats, syringes, and filters. I am cycling the syringes, filters, and weigh boats through the UV cycle in the hood. I am taking out an Endura plate to see if the robot will be able to recognize it. I will not be able to take out the full skirt plates we recieved the pollen in. This could potentially be an issue because I am not sure that the full skirt will allow for the wells to actually sit in the heqat block of the thermal cycler... So it turns out I cannot even close the thermal cycler with the full skirted plat in there... this is going to be an issue that I need to talk to Steve about. It is too late to ask the collaboraters sorting the pollen to put them into different plates... Good news is that it looks like pipetting 2ul from one ml from the trough using the multichannel will work just fine. It also appears that I cannot log into my gmail on this computer because it doesn't recognize the device and wants to text me a code, but I can't have my phone in here. This computer also appears to not have speakers built in so I cannot listen to music unless I get some speakers for this room.
 
 ------
+
+<div id='id-section2'/>
+
+### Page 2: March 5, 2019, Make Extraction Solutions
+
+I just bought two new bottles of bleach (one for the main lab and one for the aDNA lab), two 1 liter bottles that I filled with ddH2O from the TA prep room on the first floor of Jeffords. One will become the transfer vessel and the other stay in the aDNA room. I also got funnels for transfering the ddH2O and got the scoopulas and trashbags from amazon. I am going to go into the aDNA room, make new 10% bleach, bleach and UV things I am bringing into the lab, make solutions, check that the semi skirted endura plates fit in the thermal cycler (try closing it). I will then come out and bleach the heat block (which we will use for the DNA extraction step instead of the thermal cycler and transfer the volume once the multiplex mix has been added to the semi skirted plates. Below are the instructions for making the solutions I need. Leave with pH tape so that I can make the 1M Tris-HCl in the main lab.
+
+10% SDS
+
+1.5g SDS + enough ddH2O to bring up to 15ml on the conical tube.
+
+0.25M EDTA
+
+4.383g EDTA + enough water to dissolve EDTA. Check ph is 8.
+
+UV irradiate all of those solutions under the hood
