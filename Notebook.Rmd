@@ -14,8 +14,8 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 # Table of Contents:
 
 * [Page 1: February 28, 2019](#id-section1). Bring in supplies
-* [Page 2: March 5, 2019] (#id-section2). Make Extraction Solutions
-* [Page 3: March 6, 2019] (#id-section3). Make Extraction Solutions
+* [Page 2: March 5, 2019](#id-section2). Make Extraction Solutions
+* [Page 3: March 6, 2019](#id-section3). Make Extraction Solutions
 
 ------
 
@@ -66,3 +66,9 @@ EDTA --> 1.0959g
 Bring those volumes up to around 10ml. Take a few kim wipes to rest the tubes on in the main lab and bring some pH paper as well.
 
 Bleach workspace in main lab to add HCl to Tris and NaOH to EDTA to pH Tris HCl to 7.8 and EDTA to pH 8. Wipe down the outsides with bleach, and zap with UV in biosafety cabinet. Bring these to my office until tomorrow.
+
+*In aDNA lab*
+
+The fully skirted plate does fit in the heat block.
+
+
