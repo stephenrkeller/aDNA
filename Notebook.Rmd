@@ -15,6 +15,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 
 * [Page 1: February 28, 2019](#id-section1). Bring in supplies
 * [Page 2: March 5, 2019] (#id-section2). Make Extraction Solutions
+* [Page 3: March 6, 2019] (#id-section3). Make Extraction Solutions
 
 ------
 
@@ -45,3 +46,23 @@ UV irradiate all of those solutions under the hood
 *In aDNA room*
 
 I have made new 10% bleach and am UVing the water scoopula and funnel. Also, the semi skirted plate does fit in the thermal cycler thank goodness. I made the SDS but I am having trouble with the EDTA and I think I need to add NaOH and I also think I may have gotten the calculation wrong so I need to do some figuring back at my office.
+
+------
+
+<div id='id-section3'/>
+
+### Page 3: March 6, 2019, Make Extraction Solutions
+
+Anoob grabbed the Tris from the main lab and so the first thing I am going to do is grab the bleach squirt bottle from the aDNA lab to wipe down the outside of that container.
+
+In the aDNA lab I will check that the full skirted plates fit in the heat block then hook up the heat block in the hood and UV it.
+
+I will measure out Tris into a 15ml conical tube and EDTA into a 15ml conical tube
+
+Tris --> 1.8171g 
+
+EDTA --> 1.0959g
+
+Bring those volumes up to around 10ml. Take a few kim wipes to rest the tubes on in the main lab and bring some pH paper as well.
+
+Bleach workspace in main lab to add HCl to Tris and NaOH to EDTA to pH Tris HCl to 7.8 and EDTA to pH 8. Wipe down the outsides with bleach, and zap with UV in biosafety cabinet. Bring these to my office until tomorrow.
