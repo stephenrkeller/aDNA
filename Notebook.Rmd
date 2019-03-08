@@ -16,6 +16,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 * [Page 1: February 28, 2019](#id-section1). Bring in supplies
 * [Page 2: March 5, 2019](#id-section2). Make Extraction Solutions
 * [Page 3: March 6, 2019](#id-section3). Make Extraction Solutions
+* [Page 4: March 8, 2019](#id-section4). First Extraction!
 
 ------
 
@@ -71,4 +72,47 @@ Bleach workspace in main lab to add HCl to Tris and NaOH to EDTA to pH Tris HCl 
 
 The fully skirted plate does fit in the heat block.
 
+------
 
+<div id='id-section4'/>
+
+### Page 4: March 8, 2019, First Extraction!
+
+Below is the protocol for the day:
+
+* Get 10% bleach from aDNA room  
+* Bleach outside of solutions and outside of primer tubes  
+* Here are the primer dilutions:  
+* 01 --> 311ul  
+* 02 --> 311ul  
+* 04 --> 300ul  
+* 05 --> 273ul  
+* 06 --> 356ul  
+* 07 --> 275ul  
+* 13 --> 338ul  
+* 14 --> 291ul  
+* 15 --> 337ul  
+* 16 --> 307ul  
+* 17 --> 325ul  
+* 18 --> 276ul  
+
+* Bring things to aDNA room  
+* Pour ddH2O into heat block and set to 56C  
+* UV solutions, tips, pipettes and troughs (and multiple tubes of nfH20)   
+* Bring solutions up to volume (15ml)  
+* Dilute primers  
+* Add 10ul of each primer stock to a tube with 380ul nfH2O for master primer mix  
+* In separate 1.5ml tubes put 1200ul nfH2O, 500ul 0.25M EDTA, 500ul 1M Tris-HCl, 500ul 10% SDS  
+* Place these and syringe and filter under UV  
+* In new 1.5ml tube add: 1ul 10% SDS, 10ul 1M Tris-HCl, 40ul 0.25M EDTA, 5ul 20mg/ml Prot K, 944ul nfH2O  
+* Attach syringe to filter with plunger removed, add 1000ul of the above solution to the syringe and depress plunger to push solution into new 1.5ml tube  
+* Transfer solution to trough and bring out the first plate on the cold block  
+* Use multichannel to add 2ul to each well  
+* Gently tap down all the liquid and add foil seal  
+* Place on heat block for 60 mins  
+* Make multiplex MM (20ul reaction volumes)  
+* Mix following solutions in trough: 576ul nfH20, 1152ul Multiplex MM, 230.4ul Primer MM  
+* Remove plate, dry off with kimwipe, and wipe down outside with bleach  
+* Remove foil and trasfer by 8.5ul, 17ul of Multiplex PCR mix to each well, gently tap down  
+* Transfer all to semiskirted plate, gently tap down  
+* Cover with foil and bring to Phil's Lab to put on thermal cycler
