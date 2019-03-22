@@ -17,6 +17,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 * [Page 2: March 5, 2019](#id-section2). Make Extraction Solutions
 * [Page 3: March 6, 2019](#id-section3). Make Extraction Solutions
 * [Page 4: March 8, 2019](#id-section4). First Extraction!
+* [Page 5: March 22, 2019](#id-section5). Singleplex Prep
 
 ------
 
@@ -116,3 +117,25 @@ Below is the protocol for the day:
 * Remove foil and trasfer by 8.5ul, 17ul of Multiplex PCR mix to each well, gently tap down  
 * Transfer all to semiskirted plate, gently tap down  
 * Cover with foil and bring to Phil's Lab to put on thermal cycler
+
+------
+
+<div id='id-section5'/>
+
+
+### Page 4: March 22, 2019, Singleplex Prep
+
+We are going to move forward with the first singleplex now that the robot is working. Below is the protocol I will follow.
+
+* Bring gloves to aDNA room  
+* Make a mix with 485.76ul H2O, 47.52ul 10uM Primer 13, 47.52 10uM Primer 14  
+* Label one EnduraPlate with PCR MM and the other with Tray one 13/14 Singleplex  
+* Cover Both plates and grab two extra seals  
+* Bring an extra 1.5mL tube  
+* MOVE TO MAIN LAB  
+* Situate plates in robot and take out multiplex to thaw  
+* Turn on the Thermal Cycler and start high program to bring to temperature  
+* Add 792ul of Taq 2X Master Mix to primers and water  
+* Dispense 171.6ul to each well of the first column of the PCR MM plate  
+* Run program on the robot
+* Seal plates and put in thermal cycler
