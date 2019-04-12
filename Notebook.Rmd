@@ -19,6 +19,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 * [Page 4: March 8, 2019](#id-section4). First Extraction!
 * [Page 5: March 22, 2019](#id-section5). Singleplex Prep
 * [Page 6: March 29, 2019](#id-section6). Tray 1 Singleplex Loci 06/07 Prep
+* [Page 7: April 15, 2019](#id-section7). Tray 1 Singleplex Loci 01/02 Prep
 
 ------
 
@@ -142,7 +143,7 @@ We are going to move forward with the first singleplex now that the robot is wor
 
 ------
 
-<div id='id-section1'/>
+<div id='id-section6'/>
 
 ### Page 6: March 29, 2019, Tray 1 Singleplex Loci 06/07 Prep
 
@@ -155,6 +156,38 @@ In aDNA lab make a mix in a 1.5ml tube of:
 * 48.51ul Rv Primer 07 (10uM)  
 
 Label the Enduraplate as "Tray 1 06/07 Singleplex" with the date and my initials and seal the plate.
+
+Bring two extra seals to the main lab.
+
+MOVE TO THE MAIN LAB
+
+Situate plates in the robot.
+
+Turn on the thermal cycler and start the program.
+
+Take out Multiplex plate to thaw.
+
+Add 808.5ul of MyTaq 2X MM to 1.5ml tube.
+
+Dispense 175.175ul of PCR MM into the second column of the wells on the PCR MM plate.
+
+Run the program, seal the plates and place on the thermal cycler.
+
+------
+
+<div id='id-section7'/>
+
+### Page 7: April 15, 2019, Tray 1 Singleplex Loci 01/02 Prep
+
+This protocol will start in the aDNA lab. Friday I UVed all of the things I will need for this experiment.
+
+In aDNA lab mix in a 1.5ml tube:
+
+* 495.88ul H2O  
+* 48.51ul Fw Primer 06 (10uM)  
+* 48.51ul Rv Primer 07 (10uM)  
+
+Label the Enduraplate as "Tray 1 01/02 Singleplex" with the date and my initials and seal the plate.
 
 Bring two extra seals to the main lab.
 
