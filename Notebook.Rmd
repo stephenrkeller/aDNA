@@ -184,8 +184,8 @@ This protocol will start in the aDNA lab. Friday I UVed all of the things I will
 In aDNA lab mix in a 1.5ml tube:
 
 * 495.88ul H2O  
-* 48.51ul Fw Primer 06 (10uM)  
-* 48.51ul Rv Primer 07 (10uM)  
+* 48.51ul Fw Primer 01 (10uM)  
+* 48.51ul Rv Primer 02 (10uM)  
 
 Label the Enduraplate as "Tray 1 01/02 Singleplex" with the date and my initials and seal the plate.
 
