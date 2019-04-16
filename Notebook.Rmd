@@ -20,6 +20,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 * [Page 5: March 22, 2019](#id-section5). Singleplex Prep
 * [Page 6: March 29, 2019](#id-section6). Tray 1 Singleplex Loci 06/07 Prep
 * [Page 7: April 15, 2019](#id-section7). Tray 1 Singleplex Loci 01/02 Prep
+* [Page 8: April 16, 2019](#id-section8). Tray 1 Singleplex Loci 05/04 Prep
 
 ------
 
@@ -204,3 +205,35 @@ Add 808.5ul of MyTaq 2X MM to 1.5ml tube.
 Dispense 175.175ul of PCR MM into the second column of the wells on the PCR MM plate.
 
 Run the program, seal the plates and place on the thermal cycler.
+
+<div id='id-section8'/>
+
+### Page 8: April 16, 2019, Tray 1 Singleplex Loci 05/04 Prep
+
+Calculations can be found in the physical lab notebook.
+
+In aDNA room mix in 1.5ml tube:
+
+* 506ul Water  
+* 49.5ul FW Primer 05 (10uM)  
+* 49.5ul RV Primer 04 (10uM)
+
+Label Enduraplate as "Tray 1 05/04 Singleplex" and seal
+
+Bring 2 extra seals to the main lab
+
+MOVE TO THE MAIN LAB
+
+Situate plates in the robot
+
+Turn on thermal cycler and start program
+
+Take out multiplex plate to thaw
+
+Add 825ul MyTaq 2X MM to the 1.5ml tube, votex, and spin down
+
+Dispense 178.75ul PCR MM to the next column of free wells on the PCR MM plate (fix robot program accordingly)
+
+Run program and seal plates
+
+Place on thermal cycler and run program
