@@ -24,6 +24,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 * [Page 9: April 24, 2019](#id-section9). Tray 1 Singleplex Loci 05/04 Prep
 * [Page 10: April 26, 2019](#id-section10). Tray 1 Singleplex Loci 15/16 Prep
 * [Page 11: May 1, 2019](#id-section11). Tray 2 aDNA Extraction and Multiplex
+* [Page 12: May 8, 2019](#id-section12). Singplex Prep for Tray 2
 
 ------
 
@@ -381,3 +382,42 @@ Bring to Phil's lab and place on thermal cycler (35 cycles):
 * 72C for 90secs  
 * 72C for 10mins  
 * 4C hold  
+
+------
+
+<div id='id-section12'/>
+
+### Page 12: May 8, 2019, Singleplex Prep for Tray 2
+
+Caclulations can be found in the notebook, but what I need to do in the aDNA room is prep primer/water parts of the singleplex, put them into a plate that will be pulled from by the robot and bring the rest of the supplies I will need.
+
+Before doing anything I need to UV 14 seals, 7 labelled plates, 18 1.5ml tubes, tips, pipettes, and maybe a bag to transport all of this stuff...
+
+First I need to make new 10uM stocks of each primer. I will make tubes that I can pull from twice by making 100ul.
+
+This would be 10ul Primer stock added to 90ul of nfH2O
+
+Next I will make a 1.5ml tube for each primer pair and water:
+
+* 49.5ul of primer FW  
+* 49.5ul of primer RV  
+* 506ul of nfH20
+
+Pippette 75ul into each well of the column of the PCR primer/water MM correspoding to the primer pair:
+
+* Column 1: 01/02  
+* Column 2: --  
+* Column 3: 05/04  
+* Column 4: --  
+* Column 5: 06/07  
+* Column 6: --  
+* Column 7: 13/14
+* Column 8: --
+* Column 9: 15/16  
+* Column 10: --  
+* Column 11: 17/18  
+* Column 12: --  
+
+Seal all the plates and maybe put in a bag and transport to the main lab where I already have a program set up on the robot to transfer primer water and Multiplex product into each of the singleplex plates.
+
+Mix and vortex the multiplex plate first before because there is no mixing step on the robot when it takes from the multiplex plate.
