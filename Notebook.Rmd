@@ -25,6 +25,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 * [Page 10: April 26, 2019](#id-section10). Tray 1 Singleplex Loci 15/16 Prep
 * [Page 11: May 1, 2019](#id-section11). Tray 2 aDNA Extraction and Multiplex
 * [Page 12: May 8, 2019](#id-section12). Singplex Prep for Tray 2
+* [Page 13: July 12, 2019](#id-section13). Great Heath 87 Extraction
 
 ------
 
@@ -421,3 +422,88 @@ Pippette 75ul into each well of the column of the PCR primer/water MM correspodi
 Seal all the plates and maybe put in a bag and transport to the main lab where I already have a program set up on the robot to transfer primer water and Multiplex product into each of the singleplex plates.
 
 Mix and vortex the multiplex plate first before because there is no mixing step on the robot when it takes from the multiplex plate.
+
+------
+
+<div id='id-section13'/>
+
+### Page 13: July 12, 2019, Great Heath 87 Extraction
+
+Great Heath 87 (GH 87) is from ~1 kya and is likely to have red spruce pollen present.
+
+Here I will be taking some things I learned from the pilot pollen extractions in the HATCH pollen experiments to hopefully increase our ability to extract and amplify out of ancient pollen.
+
+In the aDNA room, UV zap things I will be using:
+
+* 1.5ml tube for primer MM  
+* 2, 1.5ml aliquots of nfH2O  
+* 4, 1.5ml tubes with 500ul aliquots of lysis solutions and 1000ul of mineral oil  
+* 1.5ml tube for pre-filter lysis buffer  
+* 1.5ml tube for post-filter lysis buffer  
+* filter and syringe  
+* 1 trough for lysis buffer  
+* 1 trough for mineral oil  
+* 1 trough for Multiplex mix  
+* 2 foil seals  
+* 1 plate  
+* 4, 10ul tip boxes  
+* 1.5ml tube for multiplex mix
+
+Make lysis buffer:
+
+* 1ul 10% SDS  
+* 10ul 1M Tris-HCl  
+* 40ul 0.25M EDTA  
+* 5ul 20mg/ml Prot. K  
+* 944ul nfH2O  
+
+Filter lysis buffer:
+
+Remove plunger, attach filter, add all of the lysis buffer to the syringe, and depress plunger into new 1.5ml tube
+
+Transfer lysis buffer to a trough
+
+Take out plate of pallen, thaw, and spin down
+
+Place on cold block
+
+Add 2ul of lysis buffer to each well and crush with tips
+
+Add mineral oil to trough and add 5ul to each well
+
+Add foil seal and spin down
+
+Place in thermal cycler and start program:
+
+* 56C for 60mins  
+* 95C for 10mins  
+* 4C hold  
+
+Make primer master mix
+
+* 10ul of each 100uM primer stock  
+* 380ul nfH2O  
+
+Make multiplex master mix:
+
+* 576ul nfH2O  
+* 1152ul Multiplex master mix  
+* 230.4 Primer master mix  
+
+Add multiplex mix to the trough
+
+Remove place from the thermal cycler and spin down
+
+Transfer 7ul of PCR multiplex mix from the trough to the column on the plate and mix up and down, change pipette to 10ul and do two transfers to the new plate, then add 10ul more of PCR multiplex mix to the wells. Do for all wells.
+
+Seal and spin down
+
+Bring to Phil's lab and place on thermal cycler:
+
+* 95C for 15mins  
+* 94C for 30secs  
+* 57C for 90secs  
+* 72C for 90secs  
+* 72C for 10mins  
+* 4C hold  
+* (35 cycles)
