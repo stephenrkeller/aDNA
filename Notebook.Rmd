@@ -26,6 +26,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 * [Page 11: May 1, 2019](#id-section11). Tray 2 aDNA Extraction and Multiplex
 * [Page 12: May 8, 2019](#id-section12). Singplex Prep for Tray 2
 * [Page 13: July 12, 2019](#id-section13). Great Heath 87 Extraction
+* [Page 14: July 17, 2019](#id-section14). Batch Singleplex prep for GH 87
 
 ------
 
@@ -507,3 +508,30 @@ Bring to Phil's lab and place on thermal cycler:
 * 72C for 10mins  
 * 4C hold  
 * (35 cycles)
+
+------
+
+<div id='id-section14'/>
+
+### Page 14: July 17, 2019, Batch Singleplex Prep for GH87
+
+In aDNA room:
+
+For each primer pair add 506ul water and 49.5ul of each primer to a tube.
+
+Transfer 75ul of the mixture to 8 wells of a column on a new plate.
+
+* Column 1 01/02
+* Column 3 05/04
+* Column 5 06/07
+* Column 7 13/14
+* Column 9 15/16
+* Column 11 17/18
+
+Seal this plate and bring 6 sealed, labeled, empty plates to the main lab with extra seals
+
+Transfer 5.5ul of water primer mix to every well of every plate
+
+Vortex and spin multiplex plate then transfer 2 ul to each well of each plate
+
+For the last plate, put 103.125ul of MyTaq2X MM into each well of a column then transfer 7.5ul to the last plate and put on the thermal cycler.
