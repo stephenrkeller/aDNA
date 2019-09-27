@@ -33,6 +33,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 * [Page 18: August 27, 2019](#id-section18). Finzel Swamp 15 Tray 2 Shipment 3 Batch Singleplex Prep
 * [Page 19: September 17, 2019](#id-section19). Finzel Swamp 50 Tray 1 Shipment 2 Extraction
 * [Page 20: September 24, 2019](#id-section20). Finzel Swamp 50 Tray 1 Shipment 2 Batch Singleplex Prep
+* [Page 21: September 27, 2019](#id-section21). Multiplex/Singleplex Troubleshooting
 
 ------
 
@@ -834,3 +835,27 @@ Transfer 5.5ul of water primer mix to every well of every plate
 Vortex and spin multiplex plate then transfer 2 ul to each well of each plate
 
 For the last plate, put 103.125ul of MyTaq2X MM into each well of a column then transfer 7.5ul to the last plate and put on the thermal cycler.
+
+------
+
+### Page 21: September 27, 2019, Multiplex/Singleplex Troubleshooting
+
+The goal of this is to see if it is the protocol that is distubing the sequencing efforts by diluting contemporary DNA a lot then running it through a multiplex then 6 separate singleplexes and then sequencing them to see if it work/sequences well.
+
+Start in aDNA room to get multiplex reagents
+
+* Template    1ul  
+* Mutiplex MM 10ul (aDNA room)  
+* Primer MM   2ul (aDNA room)  
+* nfH20       7ul (aDNA room)
+
+Do 2 samples. Mix in aDNA room, come to main lab, add 1ul of 1:10 dilution of the already 1:10 diluted contemporary DNA (12/12 B) and run on main lab thermal cycler:
+
+* 95C   Hold  
+* 95C   15mins  
+* 94C   30secs  
+* 57C   1min 30secs  
+* 72C   1min 30secs  
+* 72C   10mins  
+* 4C    Hold
+* X? cycles
