@@ -36,6 +36,7 @@ This document will be used as the notebook for the NSF Spruce aDNA project. We n
 * [Page 21: September 27, 2019](#id-section21). Multiplex/Singleplex Troubleshooting
 * [Page 22: January 21, 2020](#id-section22). Shipment 2 Tray 1 TWP_2 aDNA Extraction
 * [Page 23: February 11, 2020](#id-section23). Shipment 2 Tray 1 TWP_2 Batch Singleplex Prep
+* [Page 24: March 09, 2020](#id-section24). Shipment 3 Tray 1 BB_20 aDNA Extraction
 
 ------
 
@@ -941,3 +942,58 @@ Transfer 5.5ul of water primer mix to every well of every plate
 Vortex and spin multiplex plate then transfer 2 ul to each well of each plate
 
 For the last plate, put 103.125ul of MyTaq2X MM into each well of a column then transfer 7.5ul to the last plate and put on the thermal cycler.
+
+------
+
+### Page 24: March 09, 2020, Shipment 3 Tray 1 BB_20 aDNA Extraction
+
+Negative controls are all As and Es.
+
+Protocol:
+
+1)	UV zap the materials I will be using:
+a.	9, 1.5mL microcentrifuge tubes
+i.	250ul aliquots of lysis solutions
+ii.	1000ul aliquot of mineral oil
+b.	Syringe and filter
+c.	3 troughs
+d.	2 foil seals
+e.	1 plate
+f.	2, 1.5mL aliquots of nfH2O
+g.	5, 10ul tip boxes
+2)	Make lysis buffer:
+a.	1ul 10% SDS
+b.	10ul 1M Tris-HCl
+c.	40ul 0.25M EDTA
+d.	5ul 20mg/mL Proteinase K
+e.	944ul nfH2O
+3)	Filter Lysis Buffer by removing the plunger, attaching the filter, adding all of the lysis buffer to the syringe, replacing the plunger and depressing into a new 1.5mL microcentrifuge tube.
+4)	Transfer lysis buffer to a trough
+5)	Take out plate of pollen, thaw, and spin down
+6)	Place on cold block
+7)	Add 2ul of lysis buffer to each well
+8)	Add Mineral Oil to trough and add 5ul to each well
+9)	Apply the foil seal and spin down
+10)	Place in thermal cycler and start program:
+a.	56C	60mins
+b.	95C	10mins
+c.	4C	Hold
+11)	Make primer mastermix:
+a.	10ul of each 100uM primer stock 
+b.	380ul nfH2O
+12)	Make multiplex mastermix directly in trough:
+a.	576ul nfH2O
+b.	1152ul Multiplex Master Mix
+c.	230.4ul Primer Master Mix
+13)	Remove plate from the thermal cycler and spin down
+14)	Go through and crush pollen in each well with pipette tips
+15)	Transfer 7ul of PCR Multiplex Mix from the trough to the column of wells on the plate and mix up and down, change pipette to 10ul and do two transfers to the new plate, then add 10ul more of PCR Multiplex Mix to the wells
+16)	Seal plate and spin down
+17)	Bring to Phil’s lab and place on thermal cycler:
+a.	95C	15mins
+b.	94C	30secs
+c.	57C	90secs
+d.	72C	30secs
+e.	72C	10mins
+f.	4C	Hold
+g.	35 cycles
